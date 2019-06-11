@@ -10,4 +10,4 @@ def my_collect(array)
   end
   new_arr
 end
- 
+
